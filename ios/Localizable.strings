@@ -1,0 +1,34 @@
+"adding_one" = "Ends at: %.0f:%.0f:%.0f\n";
+
+"#%@ I’m on track with @Lifesum #ifIcanyoucan" = "#%@ I’m on track with @Lifesum #ifIcanyoucan";
+
+/* Sharing, New Sharing */
+"#%@ I’m on track! If I can, you can #Lifesum" = "#%@ I’m on track! If I can, you can #Lifesum";
+
+"%.0f of %i min" = "%.0f of %i min";
+
+"%@ activity level" = "%@ activity level";
+
+"%ld of %i glasses" = "%ld of %i glasses";
+
+"%@ per %@ body weight" = "%@ per %@ body weight";
+
+"alcohol_score_out_of" = "You scored %d out of %d on alcohol.";
+
+"countdown_discount_messaging_text" = "Ends in: %.0f:%.0f:%.0f\n";
+
+"%.0f of %i min" = "%.0f of %i min";
+
+"health_test_diary_not_finished_bubble_text" = "%d%% there!";
+
+"health_test_overall_score" = "Overall score: %d / 100";
+
+"social_tab_my_notifications_timestamp_days" = "%dd";
+
+"social_tab_my_notifications_timestamp_hrs" = "%dh";
+
+"social_tab_my_notifications_timestamp_mins" = "%dm";
+
+"social_tab_my_notifications_timestamp_weeks" = "%dw";
+
+"social_tab_my_notifications_timestamp_years" = "%dy";
