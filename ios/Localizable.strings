@@ -34,3 +34,5 @@
 "social_tab_my_notifications_timestamp_years" = "%dy";
 
 "social_tab" = "%dy %dh Some other placeholder #%@ and finally %@";
+
+"update" = "update"
