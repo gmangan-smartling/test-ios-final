@@ -31,8 +31,10 @@
 
 "social_tab_my_notifications_timestamp_weeks" = "%dw";
 
-"social_tab_my_notifications_timestamp_years" = "%dy";
 
-"social_tab" = "%dy %dh Un autre espace réservé #%@ et enfin %@";
+"social_tab_my_notifications_timestamp_years" = "%1$dy";
+
+"social_tab" = "%1$dy %2$dh Un autre espace réservé #%3$@ et enfin %4$@";
 
 "update" = "update"
+
