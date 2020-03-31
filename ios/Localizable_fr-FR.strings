@@ -1,36 +1,40 @@
-"adding_one" = "Se termine à: %1$.0f: %2$.0f: %3$.0f\n";
+"adding_one" = "Se termine à: %.0f: %.0f: %.0f\n";
 
-"#%@ I’m on track with @Lifesum #ifIcanyoucan" = "# %1$@ Je suis sur la bonne voie avec @Lifesum #ifIcanyoucan";
+"#%@ I’m on track with @Lifesum #ifIcanyoucan" = "# %@ Je suis sur la bonne voie avec @Lifesum #ifIcanyoucan";
 
 /* Sharing, New Sharing */
-"#%@ I’m on track! If I can, you can #Lifesum" = "# %1$@ Je suis sur la bonne voie! Si je peux, vous pouvez #Lifesum";
+"#%@ I’m on track! If I can, you can #Lifesum" = "# %@ Je suis sur la bonne voie! Si je peux, vous pouvez #Lifesum";
 
-"%.0f of %i min" = "%1$.0f sur %2$i min";
+"%.0f of %i min" = "%.0f sur %i min";
 
-"%@ activity level" = "Niveau d'activité %1$@";
+"%@ activity level" = "Niveau d'activité %@";
 
-"%ld of %i glasses" = "%1$ld de %2$i verres";
+"%ld of %i glasses" = "%ld de %i verres";
 
-"%@ per %@ body weight" = "%1$@ par %2$@ poids corporel";
+"%@ per %@ body weight" = "%@ par %@ poids corporel";
 
-"alcohol_score_out_of" = "Vous avez obtenu %1$d sur %2$d pour l'alcool.";
+"alcohol_score_out_of" = "Vous avez obtenu %d sur %d pour l'alcool.";
 
-"countdown_discount_messaging_text" = "Se termine dans: %1$.0f:%2$.0f:%3$.0f\n";
+"countdown_discount_messaging_text" = "Se termine dans: %.0f:%.0f:%.0f\n";
 
-"%.0f of %i min" = "%1$.0f sur %2$i min";
+"%.0f of %i min" = "%.0f sur %i min";
 
-"health_test_diary_not_finished_bubble_text" = "%1$d%% là-bas!";
+"health_test_diary_not_finished_bubble_text" = "%d%% là!";
 
-"health_test_overall_score" = "Note globale: %1$d / 100";
+"health_test_overall_score" = "Note globale: %d / 100";
 
-"social_tab_my_notifications_timestamp_days" = "%1$dd";
+"social_tab_my_notifications_timestamp_days" = "%dd";
 
-"social_tab_my_notifications_timestamp_hrs" = "%1$dh";
+"social_tab_my_notifications_timestamp_hrs" = "%dh";
 
-"social_tab_my_notifications_timestamp_mins" = "%1$dm";
+"social_tab_my_notifications_timestamp_mins" = "%dm";
 
-"social_tab_my_notifications_timestamp_weeks" = "%1$dw";
+"social_tab_my_notifications_timestamp_weeks" = "%dw";
+
 
 "social_tab_my_notifications_timestamp_years" = "%1$dy";
 
 "social_tab" = "%1$dy %2$dh Un autre espace réservé #%3$@ et enfin %4$@";
+
+"update" = "update"
+
