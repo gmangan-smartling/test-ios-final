@@ -34,3 +34,9 @@
 "social_tab_my_notifications_timestamp_years" = "%1$dy";
 
 "social_tab" = "%1$dy %2$dh Ein anderer Platzhalter #%3$@ und schließlich %4$@";
+
+"update" = "aktualisieren";
+
+"update1" = "update1";
+
+"check_files_maybe" = "Aktualisieren des Dateitests";

@@ -35,6 +35,8 @@
 
 "social_tab" = "%dy %dh Some other placeholder #%@ and finally %@";
 
-"update" = "update"
+"update" = "update";
 
-"update1" = "update1"
+"update1" = "update1";
+
+"check_files_maybe" = "updating file test";
