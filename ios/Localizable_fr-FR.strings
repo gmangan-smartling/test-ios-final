@@ -34,3 +34,9 @@
 "social_tab_my_notifications_timestamp_years" = "%1$dy";
 
 "social_tab" = "%1$dy %2$dh Un autre espace réservé #%3$@ et enfin %4$@";
+
+"update" = "mise à jour";
+
+"update1" = "update1";
+
+"check_files_maybe" = "mise à jour du test de fichier";
